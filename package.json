@@ -1,6 +1,6 @@
 {
-  "name": "@testing-library/react-hooks",
-  "version": "0.0.0-semantically-released",
+  "name": "testing-library-react-hooks-mf",
+  "version": "1.0.0",
   "description": "Simple and complete React hooks testing utilities that encourage good testing practices.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -75,10 +75,10 @@
     "typescript": "4.5.5"
   },
   "peerDependencies": {
-    "@types/react": "^16.9.0 || ^17.0.0",
-    "react": "^16.9.0 || ^17.0.0",
-    "react-dom": "^16.9.0 || ^17.0.0",
-    "react-test-renderer": "^16.9.0 || ^17.0.0"
+    "@types/react": "^16.9.0 || ^17.0.0 || ^18.2.0",
+    "react": "^16.9.0 || ^17.0.0 || ^18.2.0",
+    "react-dom": "^16.9.0 || ^17.0.0 || ^18.2.0",
+    "react-test-renderer": "^16.9.0 || ^17.0.0 || ^18.2.0"
   },
   "peerDependenciesMeta": {
     "@types/react": {
